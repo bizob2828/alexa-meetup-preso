@@ -1283,3 +1283,13 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+#title-content .title-img {
+    display: inline;
+    vertical-align:middle;
+    width: 250px;
+}
+
+#title-content .middle {
+  margin-top: 50px;
+}

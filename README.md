@@ -1,2 +1,2 @@
-# Using Forever as Daemon
-Presentation for CharmCityJS 9/6/16.  Subject is using forever as a daemon, lesson learned and how to use it for graceful shutdown logic
+# Alexa, this is easy
+Presentation for CharmCityJS 4/5/17.  Talk is about basics of building Alexa skill with node.js, and AWS Lambda
